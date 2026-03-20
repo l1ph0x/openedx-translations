@@ -21,6 +21,10 @@ msgstr ""
 "Language: ka\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
+#: mixins/grading.py:72
+msgid "We could not execute your query; please try again."
+msgstr "თქვენი მოთხოვნის შესრულება ვერ მოხერხდა; გთხოვთ, სცადოთ ხელახლა."
+
 #: mixins/grading.py:89
 msgid "Weight"
 msgstr "წონა"
@@ -37,13 +41,97 @@ msgstr "ხილვადი სახელი"
 msgid "The display name for this component."
 msgstr "კომპონენტის ხილვადი სახელი."
 
+#: mixins/grading.py:172
+msgid "SQL Problem"
+msgstr ""
+
+#: mixins/grading.py:176
+msgid "Dataset"
+msgstr "მონაცემთა ნაკრები"
+
+#: mixins/grading.py:177
+msgid "Which initial dataset/database to be used for queries"
+msgstr ""
+
+#: mixins/grading.py:183
+msgid "Answer Query"
+msgstr ""
+
+#: mixins/grading.py:184
+msgid "A correct response SQL query"
+msgstr ""
+
+#: mixins/grading.py:190
+msgid "Verify Query"
+msgstr ""
+
+#: mixins/grading.py:192
+msgid ""
+"A secondary verification SQL query, to be used if the answer_query modifies "
+"the database (UPDATE, INSERT, DELETE, etc.). Only enter a single SELECT "
+"query here, which is used for matching the answer"
+msgstr ""
+
+#: mixins/grading.py:202
+msgid "Modification query statements"
+msgstr ""
+
+#: mixins/grading.py:204
+msgid ""
+"Optional SQL statements, to be executed after the user-submitted query, but "
+"before the verify_query."
+msgstr ""
+
+#: mixins/grading.py:212
+msgid "Is Ordered?"
+msgstr ""
+
+#: mixins/grading.py:213
+msgid "Should results be in order?"
+msgstr ""
+
 #: mixins/grading.py:228
 msgid "Prompt"
 msgstr "მინიშნება"
 
+#: mixins/grading.py:229
+msgid "Explanatory text to accompany the problem"
+msgstr ""
+
+#: mixins/grading.py:234
+msgid "Submission Query"
+msgstr ""
+
+#: mixins/grading.py:235
+msgid "A Submission Query"
+msgstr ""
+
+#: templates/view.html:6
+#, python-format
+msgid ""
+"\n"
+"            %(score_weighted)s/%(max_score)s point (graded)\n"
+"        "
+msgid_plural ""
+"\n"
+"            %(score_weighted)s/%(max_score)s points (graded)\n"
+"        "
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/view.html:12
+msgid "0 points (ungraded)"
+msgstr ""
+
 #: templates/view.html:21
 msgid "Note:"
 msgstr "შენიშვნა:"
+
+#: templates/view.html:22
+msgid ""
+"Your queries are executed using SQLite, so you must conform to the SQL "
+"constructs supported by SQLite."
+msgstr ""
 
 #: templates/view.html:27
 msgid "Press ESC then TAB or click outside of the code editor to exit"
@@ -70,3 +158,17 @@ msgstr "არასწორი"
 #: templates/view.html:55
 msgid "Unanswered"
 msgstr "უპასუხო"
+
+#: templates/view.html:63
+msgid ""
+"To check your data modification statement, we ran the following query after "
+"your modification:"
+msgstr ""
+
+#: templates/view.html:75
+msgid "Your Query Result:"
+msgstr ""
+
+#: templates/view.html:80
+msgid "Expected Query Result:"
+msgstr ""

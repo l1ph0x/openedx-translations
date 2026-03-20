@@ -42,6 +42,10 @@ msgid "Store hotspots opened by student, for completion"
 msgstr ""
 "სტუდენტის მიერ გახსნილი ცხელი წერტილების შენახვა, დავალების დასრულებისთვის"
 
+#: image_explorer.py:77
+msgid "XML contents to display for this module"
+msgstr "ამ მოდულისთვის საჩვენებელი XML შინაარსი"
+
 #: image_explorer.py:230
 msgid "Missing event_type in JSON data"
 msgstr "JSON მონაცემებს აკლია event_type"
@@ -77,6 +81,10 @@ msgstr ""
 #: templates/html/image_explorer_edit.html:24
 msgid "Definition"
 msgstr "განმარტება"
+
+#: templates/html/image_explorer_edit.html:25
+msgid "The XML definition for the Image Explorer"
+msgstr "სურათების მკვლევარის XML განმარტება"
 
 #: templates/html/image_explorer_edit.html:36
 msgid "Save"

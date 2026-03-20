@@ -21,6 +21,36 @@ msgstr ""
 "Language: ka\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
+#: recommender.py:314
+msgid "Invalid location URL provided"
+msgstr "არასწორი URL არის მოწოდებული"
+
+#: recommender.py:325
+msgid "The resource you are attempting to provide already exists"
+msgstr "რესურსი, რომლის მოწოდებასაც ცდილობთ, უკვე არსებობს"
+
+#: recommender.py:338
+msgid ""
+"The resource you are attempting to provide has been disallowed by the staff."
+" Reason: "
+msgstr "რესურსი, რომლის მოწოდებასაც ცდილობთ, პერსონალმა დაბლოკა. მიზეზი:"
+
+#: recommender.py:355
+msgid "The selected resource does not exist"
+msgstr "არჩეული რესურსი არ არსებობს"
+
+#: recommender.py:403
+msgid "Size of uploaded file exceeds threshold"
+msgstr "ატვირთული ფაილის ზომა აღემატება მაქს. დასაშვებს"
+
+#: recommender.py:414
+msgid "The configuration of pyfs is not properly set"
+msgstr "pyfs -ის კონფიგურაცია სწორად არ არის დაყენებული"
+
+#: recommender.py:753
+msgid "Endorse resource without permission"
+msgstr "ნებართვის არმქონე რესურსის მოწონება"
+
 #: recommender.py:797
 msgid "You don't have the permission to remove this resource"
 msgstr "თქვენ არ გაქვთ ამ რესურსის წაშლის უფლება"
@@ -475,3 +505,19 @@ msgstr "რესურსის დამტკიცება"
 #: static/js/src/cats.js:216
 msgid "Unendorse resource"
 msgstr "რესურსის გაუქმება"
+
+#: static/js/src/cats.js:218
+msgid "Remove resource"
+msgstr "რესურსის წაშლა"
+
+#: static/js/src/cats.js:219
+msgid "Hovering resource"
+msgstr "მოფარფატე რესურსი"
+
+#: static/js/src/cats.js:220
+msgid "A resource was clicked"
+msgstr "რესურსზე დაწკაპუნება მოხდა"
+
+#: static/js/src/cats.js:221
+msgid "Back to resource list mode"
+msgstr "რესურსების სიის რეჟიმში დაბრუნება"

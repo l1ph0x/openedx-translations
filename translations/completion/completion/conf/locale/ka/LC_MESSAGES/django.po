@@ -21,6 +21,45 @@ msgstr ""
 "Language: ka\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
+#: api/v1/views.py:84
+msgid ""
+"BlockCompletion.objects.submit_batch_completion should not be called when "
+"the feature is disabled."
+msgstr ""
+"BlockCompletion.objects.submit_batch_completion არ უნდა იქნას დაძახებული იმ "
+"შემთხვევაში, როდესაც გამორთულია."
+
+#: api/v1/views.py:89
+#, python-brace-format
+msgid "Key '{key}' not found."
+msgstr "გასაღები '{key}' ვერ მოიძებნა."
+
+#: api/v1/views.py:97
+msgid "User is not enrolled in course."
+msgstr "ეს მომხმარებელი არ არის კურსში ჩარიცხული"
+
+#: api/v1/views.py:115
+msgid "Invalid learning context key: {}"
+msgstr "არასწორი სწავლის კონტექსტის გასაღები: {}"
+
+#: api/v1/views.py:124
+msgid "Invalid block key: {}"
+msgstr "არასწორი ბლოკის გასაღები: {}"
+
+#: api/v1/views.py:132
+#, python-brace-format
+msgid "Block with key: '{key}' is not in context {context}"
+msgstr "ბლოკი გასაღებით : '{key}' არ არის კონტექსტში {context}"
+
 #: api/v1/views.py:174
 msgid " "
 msgstr " "
+
+#: api/v1/views.py:189
+msgid "ok"
+msgstr "თანხმობა"
+
+#: models.py:33
+#, python-brace-format
+msgid "{value} must be between 0.0 and 1.0"
+msgstr "{value} უნდა იყოს 0.0 -სა და 1.0 -ს შორის"
