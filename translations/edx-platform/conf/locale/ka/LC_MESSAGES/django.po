@@ -7830,7 +7830,7 @@ msgstr ""
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:47
 #: themes/stanford-style/lms/templates/index.html:26
 msgid "Search"
-msgstr "ძიება"
+msgstr "ძებნა"
 
 #: lms/templates/wiki/plugins/attachments/index.html:65
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:9
@@ -20288,7 +20288,7 @@ msgstr "თქვენ ჯერ არ ჩარიცხულხართ �
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:32
 #: lms/templates/navigation/navbar-authenticated.html:16
 msgid "Explore courses"
-msgstr "გადახედეთ კურსებს"
+msgstr "კურსების გადახედვა"
 
 #: lms/templates/dashboard.html:249
 #: lms/templates/registration/account_activation_sidebar_notice.html:16
@@ -20525,11 +20525,11 @@ msgstr "კეთილი იყოს თქვენი მობრძან
 #: lms/templates/index_overlay.html:10
 #, python-brace-format
 msgid "It works! Powered by the Open edX{registered_trademark} Platform"
-msgstr "გამოდის! უზრუნველყოფილია Open edX{registered_trademark} პლატფორმით"
+msgstr "შექმნილია პლატფორმით Open edX{registered_trademark}"
 
 #: lms/templates/invalid_email_key.html:10
 msgid "Invalid email change key"
-msgstr "ელფოსტის შეცვლის გასაღები არასწორია"
+msgstr "ელ-ფოსტის შეცვლის გასაღები არასწორია"
 
 #: lms/templates/invalid_email_key.html:12
 msgid "This e-mail key is not valid. Please check:"
@@ -26448,7 +26448,7 @@ msgstr ""
 
 #: lms/templates/navigation/navbar-not-authenticated.html:33
 msgid "Explore Courses"
-msgstr "კურსების მიმოხილვა"
+msgstr "კურსების გადახედვა"
 
 #: lms/templates/navigation/navigation.html:44
 msgid "Global"
@@ -27393,3 +27393,12 @@ msgstr "განათავსეთ თქვენი საავტორ�
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "კოდის რედაქტორი"
+
+msgid "Powered by:"
+msgstr "შექმნილია:"
+
+msgid "Discover courses"
+msgstr "კურსების ნახვა"
+
+msgid "Explore course"
+msgstr "კურსის გადახედვა"
