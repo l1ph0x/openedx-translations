@@ -27402,3 +27402,6 @@ msgstr "კურსების ნახვა"
 
 msgid "Explore course"
 msgstr "კურსის გადახედვა"
+
+msgid "Discover"
+msgstr "აღმოაჩინე"
