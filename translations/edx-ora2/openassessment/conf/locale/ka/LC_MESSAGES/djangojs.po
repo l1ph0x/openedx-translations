@@ -295,7 +295,7 @@ msgstr "თქვენი ფაილი წაიშალა ან შე�
 #: xblock/static/dist/openassessment-lms.0ed216fc6ce56a916473.js:362
 #: xblock/static/js/src/lms/oa_response.js:458
 msgid "Saving draft"
-msgstr "გადანახული მონახაზი"
+msgstr "სამუშაო ვერსია ინახება"
 
 #: xblock/static/dist/openassessment-lms.0ed216fc6ce56a916473.js:362
 #: xblock/static/js/src/lms/oa_response.js:465
@@ -309,12 +309,12 @@ msgstr ""
 #: xblock/static/dist/openassessment-lms.0ed216fc6ce56a916473.js:362
 #: xblock/static/js/src/lms/oa_response.js:480
 msgid "Saving draft..."
-msgstr "მონახაზის შენახვა..."
+msgstr "სამუშაო ვერსია ინახება..."
 
 #: xblock/static/dist/openassessment-lms.0ed216fc6ce56a916473.js:362
 #: xblock/static/js/src/lms/oa_response.js:496
 msgid "Draft saved!"
-msgstr "მონახაზი შენახულია!"
+msgstr "სამუშაო ვერსია შენახულია!"
 
 #: xblock/static/dist/openassessment-lms.0ed216fc6ce56a916473.js:362
 #: xblock/static/js/src/lms/oa_response.js:509

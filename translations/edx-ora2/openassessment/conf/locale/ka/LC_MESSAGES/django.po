@@ -1267,20 +1267,36 @@ msgid "Enter your response to the prompt."
 msgstr "უპასუხეთ მითითებულ საკითს."
 
 #: templates/legacy/response/oa_response.html:92
-msgid "Your work will save automatically and you can return to complete your response at any time before the subsection due date "
-msgstr "თქვენი ნამუშევარი ავტომატურად შეინახება და თქვენ შეგიძლიათ დაბრუნდეთ თქვენი პასუხის დასასრულებლად ნებისმიერ დროს ქვეპუნქტის ვადამდე "
+msgid ""
+"Your work will save automatically and you can return to complete your "
+"response at any time before the subsection due date "
+msgstr ""
+"თქვენი ნამუშევარი ავტომატურად შეინახება და თქვენ შეგიძლიათ დაბრუნდეთ თქვენი "
+"პასუხის დასასრულებლად ნებისმიერ დროს ამ განყოფილების ვადამის გასვლამდე "
 
 #: templates/legacy/response/oa_response.html:94
-msgid "Your work will save automatically and you can return to complete your response at any time before the course ends "
-msgstr "თქვენი ნამუშევარი ავტომატურად შეინახება და თქვენ შეგიძლიათ დაბრუნდეთ თქვენი პასუხის დასასრულებლად ნებისმიერ დროს კურსის დასრულებამდე "
+msgid ""
+"Your work will save automatically and you can return to complete your "
+"response at any time before the course ends "
+msgstr ""
+"თქვენი ნამუშევარი ავტომატურად შეინახება და თქვენ შეგიძლიათ დაბრუნდეთ თქვენი "
+"პასუხის დასასრულებლად ნებისმიერ დროს კურსის დასრულებამდე "
 
 #: templates/legacy/response/oa_response.html:96
-msgid "Your work will save automatically and you can return to complete your response at any time before the due date "
-msgstr "თქვენი ნამუშევარი ავტომატურად შეინახება და თქვენ შეგიძლიათ დაბრუნდეთ თქვენი პასუხის დასასრულებლად ნებისმიერ დროს ვადის გასვლამდე "
+msgid ""
+"Your work will save automatically and you can return to complete your "
+"response at any time before the due date "
+msgstr ""
+"თქვენი ნამუშევარი ავტომატურად შეინახება და თქვენ შეგიძლიათ დაბრუნდეთ თქვენი "
+"პასუხის დასასრულებლად ნებისმიერ დროს მითითებული ვადის გასვლამდე "
 
 #: templates/legacy/response/oa_response.html:108
-msgid "Your work will save automatically and you can return to complete your response at any time."
-msgstr "თქვენი ნამუშევარი ავტომატურად შეინახება და ნებისმიერ დროს შეგიძლიათ დაბრუნდეთ თქვენი პასუხის დასასრულებლად."
+msgid ""
+"Your work will save automatically and you can return to complete your "
+"response at any time."
+msgstr ""
+"თქვენი ნამუშევარი ავტომატურად შეინახება და ნებისმიერ დროს შეგიძლიათ დაბრუნდეთ "
+"თქვენი პასუხის დასასრულებლად."
 
 #: templates/legacy/response/oa_response.html:110
 msgid "After you submit your response, you cannot edit it"
@@ -1649,7 +1665,7 @@ msgstr "ახალი შეფასების გამოცდილე�
 
 #: templates/legacy/staff_area/oa_staff_area.html:26
 msgid "View ORA in Studio"
-msgstr "ORA-ს ნახვა სტუდიაში"
+msgstr "ORA -ს სტუდიოში ნახვა"
 
 #: templates/legacy/staff_area/oa_staff_area.html:31 templates/legacy/staff_area/oa_staff_area.html:69 templates/legacy/staff_area/oa_staff_area.html:151
 msgid "Close"
