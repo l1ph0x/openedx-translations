@@ -4760,7 +4760,7 @@ msgstr "სურათის შეცვლა"
 
 #: lms/static/js/views/image_field.js:25
 msgid "Image"
-msgstr "გამოსახულება"
+msgstr "სურათი"
 
 #: lms/static/js/views/image_field.js:31
 msgid "An error has occurred. Refresh the page, and then try again."
@@ -4772,7 +4772,7 @@ msgstr "ფაილი სულ ცოტა {size} ზომის უნდ�
 
 #: lms/static/js/views/image_field.js:180
 msgid "The file must be smaller than {size} in size."
-msgstr "ფაილი უნდა იყოს {size}-ზე მცირე."
+msgstr "ფაილის ზომა უნდა იყოს {size} -ზე მცირე."
 
 #: lms/static/js/views/image_field.js:215
 msgid ""
@@ -4787,15 +4787,15 @@ msgstr ""
 
 #: lms/static/js/views/image_field.js:222
 msgid "bytes"
-msgstr "ბაიტი"
+msgstr "bytes"
 
 #: lms/static/js/views/image_field.js:222
 msgid "KB"
-msgstr "კბაიტი"
+msgstr "KB"
 
 #: lms/static/js/views/image_field.js:222
 msgid "MB"
-msgstr "მბაიტი"
+msgstr "MB"
 
 #: lms/static/lms/js/preview/preview_factory.js:13
 msgid "Course is not yet visible to students."
@@ -4803,8 +4803,7 @@ msgstr "კურსი ჯერ არ არის სტუდენტე�
 
 #: lms/static/lms/js/preview/preview_factory.js:24
 msgid "You cannot view the course as a student or beta tester before the course release date."
-msgstr ""
-"თქვენ არ შეგიძლიათ კურსისნახვა როგორც სტუდენტს ან ბეტა ტესტერს კურსის გამოშვების თარიღამდე."
+msgstr "თქვენ არ შეგიძლიათ კურსისნახვა როგორც სტუდენტს ან ბეტა ტესტერს კურსის გამოშვების თარიღამდე."
 
 #: lms/templates/courseware/progress_graph.js:294
 msgid "Overall Score"
@@ -4822,21 +4821,21 @@ msgstr "სანიშნეებში შენახული"
 #: openedx/features/course_search/static/course_search/js/views/search_results_view.js:69
 msgid "{total_results} result found for \"{search_term}\""
 msgid_plural "{total_results} results found for \"{search_term}\""
-msgstr[0] "{total_results} შედეგი მოიძებნა \"{search_term}\""
+msgstr[0] "{total_results} შედეგი მოიძებნა სიტყვისთვის \"{search_term}\""
 
 #: xmodule/assets/library_content/public/js/library_content_edit.js:16
 #: xmodule/js/public/js/library_content_edit.js:16
 msgid "Updating with latest library content"
-msgstr ""
+msgstr "მიმდინარეობს განახლება უახლესი ბიბლიოთეკის შინაარსით"
 
 #: xmodule/assets/split_test/public/js/split_test_author_view.js:12
 #: xmodule/js/public/js/split_test_author_view.js:12
 msgid "Creating missing groups"
-msgstr ""
+msgstr "მიმდინარეობს არარსებული ჯგუფების შექმნა"
 
 #: xmodule/assets/word_cloud/src/js/word_cloud_main.js:258
 msgid "{start_strong}{total}{end_strong} words submitted in total."
-msgstr ""
+msgstr "სულ {start_strong}{total}{end_strong} წარდგენილი სიტყვა."
 
 #: xmodule/assets/word_cloud/src/js/word_cloud_main.js:285
 msgid "text_word_{uniqueId} title_word_{uniqueId}"
@@ -4856,51 +4855,51 @@ msgstr ""
 
 #: xmodule/js/src/annotatable/display.js:285
 msgid "Hide Annotations"
-msgstr ""
+msgstr "ანოტაციის დამალვა"
 
 #: xmodule/js/src/annotatable/display.js:300
 msgid "Expand Instructions"
-msgstr ""
+msgstr "ინსტრუქციების ჩვენება"
 
 #: xmodule/js/src/annotatable/display.js:302
 msgid "Collapse Instructions"
-msgstr ""
+msgstr "ინსტრუქციების დამალვა"
 
 #: xmodule/js/src/annotatable/display.js:392
 msgid "Commentary"
-msgstr ""
+msgstr "კომენტარი"
 
 #: xmodule/js/src/annotatable/display.js:404
 msgid "Reply to Annotation"
-msgstr ""
+msgstr "ანოტაციაზე პასუხის გაცემა"
 
 #. Translators: {num_points} is the number of points possible (examples: 1, 3,
 #. 10).;
 #: xmodule/js/src/capa/display.js:235
 msgid "{num_points} point possible (graded, results hidden)"
 msgid_plural "{num_points} points possible (graded, results hidden)"
-msgstr[0] "{num_points} შესაძლო ქულა (graded, results hidden)"
+msgstr[0] "{num_points} შესაძლო ქულა (შეფასებადი, შედეგები დამალულია)"
 
 #. Translators: {num_points} is the number of points possible (examples: 1, 3,
 #. 10).;
 #: xmodule/js/src/capa/display.js:242
 msgid "{num_points} point possible (ungraded, results hidden)"
 msgid_plural "{num_points} points possible (ungraded, results hidden)"
-msgstr[0] "{num_points} შესაძლო ქულა (ungraded, results hidden)"
+msgstr[0] "{num_points} შესაძლო ქულა (არაშეფასებადი, შედეგები დამალულია)"
 
 #. Translators: {num_points} is the number of points possible (examples: 1, 3,
 #. 10).;
 #: xmodule/js/src/capa/display.js:253
 msgid "{num_points} point possible (graded)"
 msgid_plural "{num_points} points possible (graded)"
-msgstr[0] "{num_points} ქულა possible (graded)"
+msgstr[0] "{num_points} შესაძლო ქულა (შეფასებადი)"
 
 #. Translators: {num_points} is the number of points possible (examples: 1, 3,
 #. 10).;
 #: xmodule/js/src/capa/display.js:259
 msgid "{num_points} point possible (ungraded)"
 msgid_plural "{num_points} points possible (ungraded)"
-msgstr[0] "{num_points} შესაძლო ქულა (ungraded)"
+msgstr[0] "{num_points} შესაძლო ქულა (შეფასებადი)"
 
 #. Translators: {earned} is the number of points earned. {possible} is the
 #. total number of points (examples: 0/1, 1/1, 2/3, 5/10). The total number of
@@ -4909,7 +4908,7 @@ msgstr[0] "{num_points} შესაძლო ქულა (ungraded)"
 #: xmodule/js/src/capa/display.js:269
 msgid "{earned}/{possible} point (graded)"
 msgid_plural "{earned}/{possible} points (graded)"
-msgstr[0] "{earned}/{possible} ქულა (graded)"
+msgstr[0] "{earned}/{possible} ქულა (შეფასებადი)"
 
 #. Translators: {earned} is the number of points earned. {possible} is the
 #. total number of points (examples: 0/1, 1/1, 2/3, 5/10). The total number of
@@ -4918,7 +4917,7 @@ msgstr[0] "{earned}/{possible} ქულა (graded)"
 #: xmodule/js/src/capa/display.js:276
 msgid "{earned}/{possible} point (ungraded)"
 msgid_plural "{earned}/{possible} points (ungraded)"
-msgstr[0] "{earned}/{possible} ქულა (ungraded)"
+msgstr[0] "{earned}/{possible} ქულა (არაშეფასებადი)"
 
 #: xmodule/js/src/capa/display.js:356
 msgid "The grading process is still running. Refresh the page to see updates."
@@ -4943,7 +4942,7 @@ msgstr "თქვენ წარადგინეთ {filename}; მხოლ�
 
 #: xmodule/js/src/capa/display.js:568
 msgid "Your file {filename} is too large (max size: {maxSize}MB)."
-msgstr "თქვენი ფაილი {filename} ძალიან დიდია (მაქს. ზომა: {maxSize} მბ)."
+msgstr "თქვენი ფაილი {filename} ძალიან დიდია (მაქს. ზომა: {maxSize}MB)."
 
 #: xmodule/js/src/capa/display.js:584
 msgid "You did not submit the required files: {requiredFiles}."
@@ -4977,7 +4976,7 @@ msgstr ""
 #. browser when a user needs to edit HTML
 #: xmodule/js/src/html/edit.js:148 xmodule/js/src/html/edit.js:895
 msgid "Paragraph"
-msgstr "პარაგრაფი"
+msgstr "აბზაცი"
 
 #: xmodule/js/src/html/edit.js:149
 msgid "Preformatted"
